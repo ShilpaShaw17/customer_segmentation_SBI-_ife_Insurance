@@ -1,1 +1,2 @@
-# customer_segmentation_SBI-_ife_Insurance
+# customer_segmentation
+Customers segmentation using clustering models to give products and services recommendations
